@@ -15,7 +15,7 @@
 - 👨‍💻: I love using Software as a solution for every `Problem`.
 - 👨‍🎓: I’m currently learning `Java` and `Web Development`.
 - 🤓: Always `learning new things`.
-- 🤔: I’m currently open for a new `Open Source Contributions`, this is [MY RESUME]().
+- 🤔: I’m currently open for a new `Open Source Contributions`, this is [MY RESUME](https://github.com/Swapnil-Singh-99/Swapnil-Singh-99/blob/main/Resume%20Swapnil%20Singh.pdf).
 <br>
 
 ---
