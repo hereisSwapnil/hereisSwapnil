@@ -46,6 +46,4 @@
 </br></br>
 	
 ## 🐍 A Snake Eating my Contributions Graph
-<p align="center">
-	![Snake animation](https://github.com/eagrundy/eagrundy/blob/output/github-contribution-grid-snake.svg)
-</p>
+![Snake animation](https://github.com/Swapnil-Singh-99/Swapnil-Singh-99/blob/main/Images/github-contribution-grid-snake.svg)
