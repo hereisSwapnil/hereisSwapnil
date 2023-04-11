@@ -45,5 +45,3 @@
 
 </br></br>
 	
-## 🐍 A Snake Eating my Contributions Graph
-<p align="center"><img alt="Swapnil-Singh-99's Github Contribution" src="https://github.com/Swapnil-Singh-99/Swapnil-Singh-99/blob/output/github-contribution-grid-snake.svg?" height="200"/></p>
