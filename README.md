@@ -22,9 +22,9 @@
 
 ## <picture> <img src="https://github.com/Swapnil-Singh-99/Swapnil-Singh-99/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
 <p align="center">
-	<a href="mailto:swapnilskumar99@gmail.com"><img  height = 30px; img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
-	<a href="https://github.com/Swapnil-Singh-99"><img height = 30px; src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white " alt="GitHub"/></a>
-	<a href="https://www.linkedin.com/in/SwapnilSingh99/"><img  height = 30px; src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+	<a target="_blank" href="mailto:swapnilskumar99@gmail.com"><img  height = 30px; img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
+	<a target="_blank" href="https://github.com/Swapnil-Singh-99"><img height = 30px; src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white " alt="GitHub"/></a>
+	<a target="_blank" href="https://www.linkedin.com/in/SwapnilSingh99/"><img  height = 30px; src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
 
 ---
