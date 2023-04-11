@@ -39,8 +39,7 @@
 ## <picture> <img src = "https://github.com/Swapnil-Singh-99/Swapnil-Singh-99/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats
 
 <p align="center">
-    <a href="https://github.com/Swapnil-Singh-99/Swapnil-Singh-99/blob/main/README.md">
-	    <img alt="Swapnil-Singh-99's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Swapnil-Singh-99&show_icons=true&count_private=true&locale=en&theme=dark&layout=compact" height="230px"/></a>
+	    <img alt="Swapnil-Singh-99's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Swapnil-Singh-99&show_icons=true&count_private=true&locale=en&theme=dark&layout=compact" height="230px"/>
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Swapnil-Singh-99&langs_count=10&show_icons=true&locale=en&theme=dark" alt="7oSkaaa" height="230px"/>
 <br/>
 
