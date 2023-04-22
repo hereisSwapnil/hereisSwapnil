@@ -44,5 +44,8 @@
 </p>
 <p align="center">
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Swapnil-Singh-99&layout=compact&show_icons=true&locale=en&theme=dark" alt="7oSkaaa" height="230px"/>
+<div align="center">
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Swapnil-Singh-99&theme=dark" alt="SwapnilSingh99" /></p>
+</div>
 </p>
 <br/>
