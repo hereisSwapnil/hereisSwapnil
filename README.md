@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I'm Swapnil Singh <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Computer+Science+Student;HacktoberFest+2022;Hackerrank+Python+(5⭐);Always+learning+new+things">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Computer+Science+Student;HacktoberFest+2023;Hackerrank+Python+(5⭐);Code+Chef+(1⭐);Always+learning+new+things">
 </p>
 <br>
 	
@@ -11,7 +11,7 @@
 <br><br>
 
 - 🏫: I am a `Student` at JSS Academy of Technical Education Noida.
-- ⭐: Contributed in `Hacktoberfest 2022`.
+- ⭐: Contributed in `Hacktoberfest'22 & '23, Gssoc'23`.
 - 👨‍💻: I love using Software as a solution for every `Problem`.
 - 👨‍🎓: I’m currently learning `Java` and `Web Development`.
 - 🤓: Always `learning new things`.
@@ -33,7 +33,7 @@
 ## 🛠️ My Skills
 
 <p align="center">
-	    <img alt="Swapnil-Singh-99's Github Stats" src="https://skillicons.dev/icons?i=html,css,js,python,java,cpp,c,firebase" height="230px"/> 
+	    <img alt="Swapnil-Singh-99's Github Stats" src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,python,java,cpp,c,firebase" height="230px"/> 
 
 ---
 
