@@ -5,6 +5,7 @@
 <br>
 	
 ## <picture><img src = "https://github.com/Swapnil-Singh-99/Swapnil-Singh-99/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+<img src="https://visitcount.itsvg.in/api?id=Swapnil-Singh-99&label=Profile%20Views&color=6&icon=5&pretty=true" align="center"/>
 
 <picture> <img align="right" src="https://github.com/Swapnil-Singh-99/Swapnil-Singh-99/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
