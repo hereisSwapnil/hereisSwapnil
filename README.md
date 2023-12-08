@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I'm Swapnil Singh <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Computer+Science+Student;HacktoberFest+2023;Hackerrank+Python+(5⭐);Code+Chef+(1⭐);Always+learning+new+things">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Computer+Science+Student;HacktoberFest+2023;Hackerrank+Python+(5⭐);Code+Chef+(2⭐);Always+learning+new+things">
 </p>
 <br>
 	
@@ -14,7 +14,7 @@
 - 🏫: I am a `Student` at JSS Academy of Technical Education Noida.
 - ⭐: Contributed in `Hacktoberfest'22 & '23, Gssoc'23`.
 - 👨‍💻: I love using Software as a solution for every `Problem`.
-- 👨‍🎓: I’m currently learning `Java` and `Web Development`.
+- 👨‍🎓: I’m currently learning `Java` and `Backend Development`.
 - 🤓: Always `learning new things`.
 - 📗: Visit my [Portfolio](https://swapnil-singh-99.github.io/portfolio/).
 - 🤔: I’m currently open for a new `Open Source Contributions`, this is [MY RESUME](https://github.com/Swapnil-Singh-99/Swapnil-Singh-99/blob/main/Resume%20Swapnil%20Singh.pdf).
