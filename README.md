@@ -34,7 +34,7 @@
 ## 🛠️ My Skills
 
 <p align="center">
-	    <img alt="hereisSwapnil's Github Stats" src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,python,java,cpp,c,firebase" height="230px"/> 
+	    <img alt="hereisSwapnil's Github Stats" src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,python,java,cpp,c,firebase,php,sql" height="230px"/> 
 
 ---
 
