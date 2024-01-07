@@ -4,10 +4,10 @@
 </p>
 <br>
 	
-## <picture><img src = "https://github.com/Swapnil-Singh-99/Swapnil-Singh-99/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
-<img src="https://visitcount.itsvg.in/api?id=Swapnil-Singh-99&label=Profile%20Views&color=6&icon=5&pretty=true" align="center"/>
+## <picture><img src = "https://github.com/hereisSwapnil/hereisSwapnil/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+<img src="https://visitcount.itsvg.in/api?id=hereisSwapnil&label=Profile%20Views&color=6&icon=5&pretty=true" align="center"/>
 
-<picture> <img align="right" src="https://github.com/Swapnil-Singh-99/Swapnil-Singh-99/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+<picture> <img align="right" src="https://github.com/hereisSwapnil/hereisSwapnil/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 <br><br>
 
@@ -16,16 +16,16 @@
 - 👨‍💻: I love using Software as a solution for every `Problem`.
 - 👨‍🎓: I’m currently learning `Java` and `Backend Development`.
 - 🤓: Always `learning new things`.
-- 📗: Visit my [Portfolio](https://swapnil-singh-99.github.io/portfolio/).
-- 🤔: I’m currently open for a new `Open Source Contributions`, this is [MY RESUME](https://github.com/Swapnil-Singh-99/Swapnil-Singh-99/blob/main/Resume%20Swapnil%20Singh.pdf).
+- 📗: Visit my [Portfolio](https://hereisSwapnil.github.io/portfolio/).
+- 🤔: I’m currently open for a new `Open Source Contributions`, this is [MY RESUME](https://github.com/hereisSwapnil/hereisSwapnil/blob/main/Resume%20Swapnil%20Singh.pdf).
 <br>
 
 ---
 
-## <picture> <img src="https://github.com/Swapnil-Singh-99/Swapnil-Singh-99/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
+## <picture> <img src="https://github.com/hereisSwapnil/hereisSwapnil/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
 <p align="center">
 	<a href="mailto:swapnilskumar99@gmail.com"><img  height = 30px; img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" target="_blank" alt="Gmail"/></a>
-	<a href="https://github.com/Swapnil-Singh-99"><img height = 30px; src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white " target="_blank" alt="GitHub"/></a>
+	<a href="https://github.com/hereisSwapnil"><img height = 30px; src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white " target="_blank" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/SwapnilSingh99/"><img  height = 30px; src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" target="_blank" alt="LinkedIn"/></a>
 </p>
 
@@ -34,19 +34,19 @@
 ## 🛠️ My Skills
 
 <p align="center">
-	    <img alt="Swapnil-Singh-99's Github Stats" src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,python,java,cpp,c,firebase" height="230px"/> 
+	    <img alt="hereisSwapnil's Github Stats" src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,python,java,cpp,c,firebase" height="230px"/> 
 
 ---
 
-## <picture> <img src = "https://github.com/Swapnil-Singh-99/Swapnil-Singh-99/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats
+## <picture> <img src = "https://github.com/hereisSwapnil/hereisSwapnil/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats
 
 <p align="center">
-	    <img alt="Swapnil-Singh-99's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Swapnil-Singh-99&show_icons=true&count_private=true&locale=en&theme=dark&layout=compact" height="230px"/>
+	    <img alt="hereisSwapnil's Github Stats" src="https://github-readme-stats.vercel.app/api?username=hereisSwapnil&show_icons=true&count_private=true&locale=en&theme=dark&layout=compact" height="230px"/>
 </p>
 <p align="center">
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Swapnil-Singh-99&layout=compact&show_icons=true&locale=en&theme=dark" alt="7oSkaaa" height="230px"/>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hereisSwapnil&layout=compact&show_icons=true&locale=en&theme=dark" alt="7oSkaaa" height="230px"/>
 <div align="center">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Swapnil-Singh-99&theme=dark" alt="SwapnilSingh99" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hereisSwapnil&theme=dark" alt="SwapnilSingh99" /></p>
 </div>
 </p>
 <br/>
