@@ -44,9 +44,9 @@
 	    <img alt="hereisSwapnil's Github Stats" src="https://github-readme-stats.vercel.app/api?username=hereisSwapnil&show_icons=true&count_private=true&locale=en&theme=dark&layout=compact" height="230px"/>
 </p>
 <p align="center">
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hereisSwapnil&layout=compact&show_icons=true&locale=en&theme=dark" alt="7oSkaaa" height="230px"/>
+<!-- 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hereisSwapnil&layout=compact&show_icons=true&locale=en&theme=dark" alt="7oSkaaa" height="230px"/> -->
 <div align="center">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hereisSwapnil&theme=dark" alt="SwapnilSingh99" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hereisSwapnil&theme=dark" alt="hereisSwapnil" /></p>
 </div>
 </p>
 <br/>
