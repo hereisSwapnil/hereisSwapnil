@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **swapnilskumars@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1eGXcqD2SE5q8pBlBLZULn4tQS8YmrRDu/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1_7kqKy3yx1Z_VnpPi0i6RzgUVnzBrrXI/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
