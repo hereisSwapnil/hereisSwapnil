@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **NextJS, GenAI**
 
-- 👨‍💻 All of my projects are available at [https://postimages.org/](https://postimages.org/)
+- 👨‍💻 All of my projects are available at []()
 
 - 💬 Ask me about **react, next, genai, llms, langchain**
 
